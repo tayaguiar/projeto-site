@@ -12,3 +12,36 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+h1 {
+    font-size: 2em;
+    color:rgb(65, 10, 175)
+}
+h2{
+    font-size: 1em;
+    color:rgb(65, 10, 175)   
+}
+img.lado{
+    float: right;
+}
+img.logo{
+    align:left;
+}
+article{
+    clear: both;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+img.voltar{
+    width: 50px;
+    height: 50px;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(26, 28, 138);
+}
+.texto{
+    color:rgb(65, 10, 175) 
+}
